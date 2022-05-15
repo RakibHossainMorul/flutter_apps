@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/startup_namer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/startup_namer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/startup_namer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/avengers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/avengers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/avengers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/counter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/counter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/counter_app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
